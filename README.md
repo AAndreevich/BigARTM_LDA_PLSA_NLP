@@ -30,3 +30,5 @@ https://zpp.rospotrebnadzor.ru/Forum/Appeals
 * Examples [habr](https://habr.com/ru/articles/544828/)
 
 7. Regular expressions [one](https://habr.com/ru/articles/349860/) [two](https://tproger.ru/translations/regular-expression-python) [three](https://docs.python.org/3/library/re.html#)
+
+Ссылка на google colab: https://colab.research.google.com/drive/11-4YRSPvADwgd-P6xf-QqUxqGFR0nDuA?usp=sharing
